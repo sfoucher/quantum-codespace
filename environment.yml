@@ -1,0 +1,7 @@
+name: jupyter_env
+dependencies:
+  - python=3.10
+  - jupyter
+  - pip
+  - pip:
+    - -r requirements.txt
